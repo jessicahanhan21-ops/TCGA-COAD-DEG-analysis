@@ -7,7 +7,7 @@ This repository contains R code for analyzing RNA-seq data from The Cancer Genom
 
 - **Datasets**: GDC TCGA-COAD (Colon Adenocarcinoma)
 - **Samples**: 471 primary tumor, 41 solid tissue normal
-- **Data type**: STAR‑Counts (gene-level raw counts) and phenotype files downloaded from ([https://xenabrowser.net/datapages/])
+- **Data type**: STAR‑Counts and phenotype files downloaded from ([https://xenabrowser.net/datapages/])
 
 ## Methods
 
@@ -35,7 +35,7 @@ This repository contains R code for analyzing RNA-seq data from The Cancer Genom
 
 - `TCGA_COAD_analysis.R` – Main R script with all steps (fully commented)
 - `figures/` – Contains volcano plot, heatmap, and enrichment bar plot
-- `results_summary.csv` – Top genes ranked by combined score
+- `results_summary.csv` – Top 20 genes ranked by combined score
 
 ## Requirements
 
