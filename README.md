@@ -5,7 +5,7 @@ This repository contains R code for analyzing RNA-seq data from The Cancer Genom
 
 ## Data Source
 
-- **Datasets**: GDC TCGA-COAD (Colon Adenocarcinoma)
+- **Datasets**: GDC TCGA-COAD (Colon Cancer)
 - **Samples**: 471 primary tumor, 41 solid tissue normal
 - **Data type**: STAR‑Counts and phenotype files downloaded from ([https://xenabrowser.net/datapages/])
 
