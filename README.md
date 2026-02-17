@@ -52,3 +52,7 @@ This repository contains R code for analyzing RNA-seq data from The Cancer Genom
 ## Feedback
 
 This project was a learning exercise in applying a standard differential expression workflow to public cancer data. Suggestions and improvements are always welcome!
+
+<img width="933" height="430" alt="Volcano Plot" src="https://github.com/user-attachments/assets/54128f4f-5f18-47ab-8ba3-7fe4cc9d204d" />
+<img width="1007" height="523" alt="Enrichment plot" src="https://github.com/user-attachments/assets/a4697bc2-8e7c-427d-aa14-1d8ada3ae0b9" />
+
